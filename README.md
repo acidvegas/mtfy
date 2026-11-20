@@ -241,5 +241,3 @@ rm emoji.json
    ```
 
 </details>
-
-<p align="center"><sub>mtfy is not affiliated with the ntfy project. The icon artwork is the <a href="https://github.com/binwiederhier/ntfy">ntfy</a> logo, used under the Apache License 2.0.</sub></p>
